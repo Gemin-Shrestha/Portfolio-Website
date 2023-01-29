@@ -1,0 +1,16 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.logo {
+  margin-left: 550px;
+  border: 10px white;
+
+}
+
+.content {
+  margin-top: -100px;
+  margin-left: 350px;
+
+}
